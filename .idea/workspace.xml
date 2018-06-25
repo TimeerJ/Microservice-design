@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8ca0b7-b57c-41b5-85e2-912d644f1e4c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/1.微服务/1.1什么是微服务/1.1.1很小,专注做好一件事.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.微服务/1.1什么是微服务/1.1.2自治性.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.1技术异构性.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.2弹性.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.3扩展.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.4简化部署.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.5与组织结构相匹配.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.6可组合性.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.微服务/1.3面向服务的架构/面向服务的架构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.微服务/1.4其他分解技术/1.4.2模块.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.微服务/1.4其他分解技术/1.41共享库.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.微服务/1.5没有银弹/没有银弹.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.微服务/1.1什么是微服务/1.1.1很小,专注做好一件事.md" beforeDir="false" afterPath="$PROJECT_DIR$/1.微服务/1.1什么是微服务/1.1.1很小,专注做好一件事.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,20 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1.2.6可组合性.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.6可组合性.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="21">
-                <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,7 +34,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/1.微服务/1.1什么是微服务/1.1.1很小,专注做好一件事.md" />
         <option value="$PROJECT_DIR$/1.微服务/1.1什么是微服务/1.1.2自治性.md" />
         <option value="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.1技术异构性.go" />
         <option value="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.1技术异构性.md" />
@@ -59,6 +42,12 @@
         <option value="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.4简化部署.md" />
         <option value="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.5与组织结构相匹配.md" />
         <option value="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.6可组合性.md" />
+        <option value="$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.7对可替代性的优化.md" />
+        <option value="$PROJECT_DIR$/1.微服务/1.1什么是微服务/1.1.1很小,专注做好一件事.md" />
+        <option value="$PROJECT_DIR$/1.微服务/1.3面向服务的架构/面向服务的架构.md" />
+        <option value="$PROJECT_DIR$/1.微服务/1.4其他分解技术/1.41共享库.md" />
+        <option value="$PROJECT_DIR$/1.微服务/1.4其他分解技术/1.4.2模块.md" />
+        <option value="$PROJECT_DIR$/1.微服务/1.5没有银弹/没有银弹.md" />
       </list>
     </option>
   </component>
@@ -69,8 +58,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1104" />
-    <option name="y" value="118" />
+    <option name="x" value="1115" />
+    <option name="y" value="64" />
     <option name="width" value="944" />
     <option name="height" value="907" />
   </component>
@@ -95,7 +84,7 @@
               <item name="Microservice-design" type="b2602c69:ProjectViewProjectNode" />
               <item name="Microservice-design" type="462c0819:PsiDirectoryNode" />
               <item name="1.微服务" type="462c0819:PsiDirectoryNode" />
-              <item name="1.2主要好处" type="462c0819:PsiDirectoryNode" />
+              <item name="1.1什么是微服务" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,8 +120,7 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1104" y="118" width="944" height="907" extended-state="0" />
-    <editor active="true" />
+    <frame x="1115" y="64" width="944" height="907" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2545249" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -142,7 +130,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32816538" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -178,26 +166,6 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.微服务/1.1什么是微服务/1.1.1很小,专注做好一件事.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="231">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.微服务/1.1什么是微服务/1.1.2自治性.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="210">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -256,8 +224,78 @@
     <entry file="file://$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.6可组合性.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
+          <first_editor relative-caret-position="105">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.微服务/1.2主要好处/1.2.7对可替代性的优化.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
           <first_editor relative-caret-position="21">
-            <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+            <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.微服务/1.1什么是微服务/1.1.2自治性.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.微服务/1.1什么是微服务/1.1.1很小,专注做好一件事.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.微服务/1.3面向服务的架构/面向服务的架构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="105">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.微服务/1.4其他分解技术/1.41共享库.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="189">
+            <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.微服务/1.4其他分解技术/1.4.2模块.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="42">
+            <caret line="1" column="63" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.微服务/1.5没有银弹/没有银弹.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="84">
+            <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
